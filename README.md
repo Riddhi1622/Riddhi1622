@@ -4,19 +4,19 @@
 
 # Hi there! 👋
 
-I'm [Your Name], a recent graduate with a strong passion for frontend development and a keen interest in the exciting worlds of web3, blockchain, cryptocurrency, NFTs, and gaming. 🚀
+I'm Divya, a recent graduate with a strong passion for frontend development and a keen interest in the exciting worlds of web3, blockchain, cryptocurrency, NFTs, and gaming. 🚀
 
 ## 🎓 Education
 
-- **Bachelor of Science in Computer Science**
-  - University: [Your University]
-  - Graduation Year: [Your Graduation Year]
+- **Post Graduation In Blockchain Development**
+  - University: GeorgeBrown College
+  
 
 ## 🛠️ Skills
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks:** React, Vue.js
-- **Tools:** Git, npm, Webpack
+- **Frameworks:** React, Next.js
+- **Tools:** Git, npm, Webpack,Docker
 
 ## 💼 Projects
 
