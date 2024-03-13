@@ -4,7 +4,7 @@
 
 # Hi there! 👋
 
-I'm Divya, a recent graduate with a strong passion for frontend development and a keen interest in the exciting worlds of web3, blockchain, cryptocurrency, NFTs, and gaming. 🚀
+I'm Riddhi, a recent graduate with a strong passion for frontend development and a keen interest in the exciting worlds of web3, blockchain, cryptocurrency, NFTs, and gaming. 🚀
 
 ## 🎓 Education
 
